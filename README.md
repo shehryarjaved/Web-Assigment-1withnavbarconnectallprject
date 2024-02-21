@@ -1,2 +1,1 @@
-# Web-Assigment-1withnavbarconnectallprject
-Web Assigment 1withnavbarconnectallprject
+# Web-Assigment-1
